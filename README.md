@@ -116,29 +116,29 @@ Basic Javascript Instructions
 3.12  Hafið áhrif  body:after
 3.12.1  Setjið botn  0
 
-4 Vinnið  JavaScript skjalinu
-4.1 Skilgreinið breytuna greeting og setjið í hana strenginn "Howdy "
-4.2 Skilgreinið breytuna name og setjið í hana strenginn "Molly"
-4.3 Skilgreinið breytuna message og setjið í hana strenginn ", please check your order:"
-4.4 Skilgreinið breytuna welcome og setjið í hana breyturnar greeting, name og message
+#4 Vinnið  JavaScript skjalinu
+#4.1 Skilgreinið breytuna greeting og setjið í hana strenginn "Howdy "
+#4.2 Skilgreinið breytuna name og setjið í hana strenginn "Molly"
+#4.3 Skilgreinið breytuna message og setjið í hana strenginn ", please check your order:"
+#4.4 Skilgreinið breytuna welcome og setjið í hana breyturnar greeting, name og message
 
-4.5 Skilgreinið breytuna sign og setjið inní hana strenginn "Montague House"
-4.6 Skilgreinið breytuna tiles og setið inní hana lengdina á gildinu inní breytunni sign
-4.7 Skilgreinið breytuna subTotal og setjið inní hana margföldun  innihaldinu í tiles með 5
-4.8 Skilgreinið breytuna shipping og setjið inn hana töluna 7
-4.9 Skilgreinið breytuna grandTotal og setjið inní hana samlagninguna á subTotal og shipping
+#4.5 Skilgreinið breytuna sign og setjið inní hana strenginn "Montague House"
+#4.6 Skilgreinið breytuna tiles og setið inní hana lengdina á gildinu inní breytunni sign
+#.7 Skilgreinið breytuna subTotal og setjið inní hana margföldun  innihaldinu í tiles með 5
+##4.8 Skilgreinið breytuna shipping og setjið inn hana töluna 7
+#4.9 Skilgreinið breytuna grandTotal og setjið inní hana samlagninguna á subTotal og shipping
 
-4.10  Skilgreinið breytuna el og setjið inní breytuna elementið með id greeting í html skjalinu
-4.11  Breytið texta innihaldinu í breytunni el yfir í gildið sem er inní breytunni welcome
+#4.10  Skilgreinið breytuna el og setjið inní breytuna elementið með id greeting í html skjalinu
+#4.11  Breytið texta innihaldinu í breytunni el yfir í gildið sem er inní breytunni welcome
 
-4.12  Skilgreinið breytuna elSign og setjið inní breytuna elementið með id userSign í HTML skjalinu
-4.13  Breytið texta innihaldinu í breytunni elSign í gildið sem er inní breytunni sign
+#4.12  Skilgreinið breytuna elSign og setjið inní breytuna elementið með id userSign í HTML skjalinu
+#4.13  Breytið texta innihaldinu í breytunni elSign í gildið sem er inní breytunni sign
 
-4.14  Skilgreinið breytuna elTiles og setjið inní breytuna elementið með id tiles í HTML skjalinu
-4.15  Breytið texta innihaldinu í breytunni elTiles í gildið sem er inní breytunni tiles
+#4.14  Skilgreinið breytuna elTiles og setjið inní breytuna elementið með id tiles í HTML skjalinu
+#4.15  Breytið texta innihaldinu í breytunni elTiles í gildið sem er inní breytunni tiles
 
-4.16  Skilgreinið breytuna elSubTotal og setjið inní breytuna elementið með id subTotal
-4.17  Breytið texta innihaldinu í breytunni elSubTotal í strenginn "$" og gildið inní breytunni subTotal
+#4.16  Skilgreinið breytuna elSubTotal og setjið inní breytuna elementið með id subTotal
+#4.17  Breytið texta innihaldinu í breytunni elSubTotal í strenginn "$" og gildið inní breytunni subTotal
 
 4.18  Skilgreinið breytuna elShipping og setjið inní breytuna elementið með id shipping
 4.19  Breytið texta innihaldinu í breytunni elShipping í strenginn "$" og gildið inní breytunni shipping
